@@ -13,7 +13,7 @@
 parse('ie6..11');
 ```
 
-```json
+```js
 [
   ['internet explorer', 6, 'Windows XP'],
   ['internet explorer', 7, 'Windows XP'],
