@@ -1,0 +1,10 @@
+{
+  "name": "wd-browser",
+  "repo": "yields/wd-browser",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "should": "~2.1.1",
+    "mocha": "~1.16.1"
+  }
+}
