@@ -1,7 +1,7 @@
 {
   "name": "wd-browser",
   "repo": "yields/wd-browser",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "dependencies": {},
   "devDependencies": {
     "should": "~2.1.1",
