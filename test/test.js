@@ -42,4 +42,13 @@ describe('parse', function(){
       ['safari', '7', 'OSX 10.9']
     ]);
   })
+
+  it('android', function(){
+    var ret = parse('android4.3');
+    ret.should.eql([['android', '4.3', 'Linux']]);
+  })
+
+  it('android', function(){
+    parse('android').should.eql([['android', '', null]]);
+  })
 })

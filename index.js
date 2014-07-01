@@ -20,7 +20,7 @@ module.exports = parse;
  */
 
 function parse(str){
-  var m = /^([a-z]+)(\d+(\.\.\.?)?\d*)?/.exec(str);
+  var m = /^([a-z]+)([0-9.]+)?/.exec(str);
   return range(m[2]).map(function(v){
     var oses = map[m[1]];
     var name = map.names[m[1]] || m[1];
@@ -38,7 +38,8 @@ function parse(str){
 
 function range(str){
   if (!str) return [''];
-  var m = str.match(/\d+/g);
+  var m = str.split(/[.]{2,3}/);
+  if (1 == m.length) return m;
   var a = Number(m.shift());
   var b = Number(m.shift());
   var ret = [];

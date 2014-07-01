@@ -7,6 +7,12 @@
     "10": "Windows 8",
     "11": "Windows 8.1"
   },
+  "android": {
+    "4.3": "Linux",
+    "4.2": "Linux",
+    "4.1": "Linux",
+    "4.0": "Linux"
+  },
   "names": {
     "ie": "internet explorer"
   }
