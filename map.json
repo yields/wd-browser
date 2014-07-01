@@ -13,6 +13,10 @@
     "4.1": "Linux",
     "4.0": "Linux"
   },
+  "opera": {
+    "12": "Windows 7",
+    "11": "Windows 7"
+  },
   "names": {
     "ie": "internet explorer"
   }

@@ -51,4 +51,19 @@ describe('parse', function(){
   it('android', function(){
     parse('android').should.eql([['android', '', null]]);
   })
+
+  it('opera', function(){
+    parse('opera').should.eql([['opera', '', null]]);
+  })
+
+  it('opera12', function(){
+    parse('opera12').should.eql([['opera', '12', 'Windows 7']]);
+  })
+
+  it('opera11..12', function(){
+    parse('opera11..12').should.eql([
+      ['opera', '11', 'Windows 7'],
+      ['opera', '12', 'Windows 7']
+    ]);
+  })
 })
