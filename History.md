@@ -1,4 +1,10 @@
 
+1.0.0 / 2014-08-09
+==================
+
+ * add `stable` pseudo version (`chrome:stable`)
+ * refactor, change syntax from `browser6..9` to `browser:6..9`
+
 0.1.1 / 2014-07-01
 ==================
 
