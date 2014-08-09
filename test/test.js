@@ -1,69 +1,19 @@
 
+var tests = require('./tests');
+var assert = require('assert');
 var parse = require('..');
 
 describe('parse', function(){
-  it('ie6', function(){
-    var ret = parse('ie6');
-    ret.length.should.eql(1);
-    ret.should.eql([['internet explorer', 6, 'Windows XP']]);
-  })
-
-  it('ie6..11', function(){
-    var ret = parse('ie6...11');
-    ret.length.should.eql(6);
-    ret.should.eql([
-      ['internet explorer', 6, 'Windows XP'],
-      ['internet explorer', 7, 'Windows XP'],
-      ['internet explorer', 8, 'Windows XP'],
-      ['internet explorer', 9, 'Windows 7'],
-      ['internet explorer', 10, 'Windows 8'],
-      ['internet explorer', 11, 'Windows 8.1'],
-    ]);
-  })
-
-  it('ie10..11', function(){
-    var ret = parse('ie10...11');
-    ret.should.eql([
-      ['internet explorer', 10, 'Windows 8'],
-      ['internet explorer', 11, 'Windows 8.1']
-    ])
-  })
-
-  it('safari', function(){
-    var ret = parse('safari');
-    ret.should.eql([
-      ['safari', '', 'OSX 10.9']
-    ]);
-  })
-
-  it('safari7', function(){
-    var ret = parse('safari7');
-    ret.should.eql([
-      ['safari', '7', 'OSX 10.9']
-    ]);
-  })
-
-  it('android', function(){
-    var ret = parse('android4.3');
-    ret.should.eql([['android', '4.3', 'Linux']]);
-  })
-
-  it('android', function(){
-    parse('android').should.eql([['android', '', null]]);
-  })
-
-  it('opera', function(){
-    parse('opera').should.eql([['opera', '', null]]);
-  })
-
-  it('opera12', function(){
-    parse('opera12').should.eql([['opera', '12', 'Windows 7']]);
-  })
-
-  it('opera11..12', function(){
-    parse('opera11..12').should.eql([
-      ['opera', '11', 'Windows 7'],
-      ['opera', '12', 'Windows 7']
-    ]);
+  var names = Object.keys(tests);
+  names.forEach(function(name){
+    var out = tests[name];
+    it(name, function(){
+      try {
+        assert.deepEqual(parse(name), out);
+      } catch (e) {
+        e.showDiff = true;
+        throw e;
+      }
+    })
   })
 })
