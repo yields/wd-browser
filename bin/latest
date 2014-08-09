@@ -23,6 +23,7 @@ get('https://saucelabs.com/rest/v1/info/browsers/webdriver')
     for (var name in json) {
       var v = Object.keys(json[name]);
 
+      // sort versions
       v.sort(function(a, b){
         if (!/\d/.test(b)) return -1;
         if (!/\d/.test(a)) return 1;
@@ -31,9 +32,10 @@ get('https://saucelabs.com/rest/v1/info/browsers/webdriver')
         return (a[0] + (a[1] || 0)) - (b[0] + (b[1] || 0));
       });
 
+      // add platforms/version
       v.forEach(function(v){
         (out[name] = out[name] || []).push({
-          platforms: json[name][v],
+          platforms: json[name][v].sort(osx),
           version: v
         });
       });
@@ -55,4 +57,17 @@ function normalize(arr){
     if (-1 == v.indexOf(_.os)) v.push(_.os);
     return o;
   }, {});
+}
+
+/**
+ * OSX first since saucelabs
+ * gives 3 parallel tests on it on open source
+ * accounts.
+ */
+
+function osx(a, b){
+  var expr = /^mac *(\d+)\.(\d+)$/i;
+  a = a.match(expr) || [,,0];
+  b = b.match(expr) || [,,0];
+  return b[2] - a[2];
 }

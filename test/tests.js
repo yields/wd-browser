@@ -113,7 +113,7 @@ exports['iphone:6..7.1'] = [{
 
 exports['chrome'] = [{
   name: 'chrome',
-  version: '35',
+  version: '36',
   platform: 'Windows 2012 R2'
 }];
 
@@ -124,10 +124,14 @@ exports['chrome'] = [{
 exports['chrome:34..stable'] = [{
   name: 'chrome',
   version: '34',
-  platform: 'Windows 2012 R2'
+  platform: 'Mac 10.9'
 }, {
   name: 'chrome',
   version: '35',
+  platform: 'Mac 10.9'
+}, {
+  name: 'chrome',
+  version: '36',
   platform: 'Windows 2012 R2'
 }];
 
@@ -137,10 +141,10 @@ exports['chrome:34..stable'] = [{
 
 exports['chrome:stable..'] = [{
   name: 'chrome',
-  version: '35',
+  version: '36',
   platform: 'Windows 2012 R2'
 }, {
   name: 'chrome',
   version: 'beta',
-  platform: 'Windows 2012 R2'
+  platform: 'Mac 10.8'
 }]
