@@ -1,551 +1,4 @@
 {
-  "internet explorer": [
-    {
-      "platforms": [
-        "Windows 2003"
-      ],
-      "version": "6"
-    },
-    {
-      "platforms": [
-        "Windows 2003"
-      ],
-      "version": "7"
-    },
-    {
-      "platforms": [
-        "Windows 2008",
-        "Windows 2003"
-      ],
-      "version": "8"
-    },
-    {
-      "platforms": [
-        "Windows 2008"
-      ],
-      "version": "9"
-    },
-    {
-      "platforms": [
-        "Windows 2008",
-        "Windows 2012"
-      ],
-      "version": "10"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2008"
-      ],
-      "version": "11"
-    }
-  ],
-  "firefox": [
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012"
-      ],
-      "version": "3.0"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012"
-      ],
-      "version": "3.5"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "3.6"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "4"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "5"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "6"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "7"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "8"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "9"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "10"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "11"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "12"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "13"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "14"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "15"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "16"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "17"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "18"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "19"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "20"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "21"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "22"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "23"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "24"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "25"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "26"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "27"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "28"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "29"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "30"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "31"
-    }
-  ],
-  "chrome": [
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "26"
-    },
-    {
-      "platforms": [
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "27"
-    },
-    {
-      "platforms": [
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "28"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "29"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "30"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "31"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "32"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "33"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "34"
-    },
-    {
-      "platforms": [
-        "Mac 10.9",
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "35"
-    },
-    {
-      "platforms": [
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012",
-        "Linux"
-      ],
-      "version": "36"
-    },
-    {
-      "platforms": [
-        "Mac 10.8",
-        "Mac 10.6",
-        "Windows 2012 R2",
-        "Windows 2003",
-        "Windows 2008",
-        "Windows 2012"
-      ],
-      "version": "beta"
-    }
-  ],
   "ipad": [
     {
       "platforms": [
@@ -585,9 +38,453 @@
     },
     {
       "platforms": [
+        "Mac 10.10",
         "Mac 10.9"
       ],
       "version": "7.1"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9"
+      ],
+      "version": "8.0"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9"
+      ],
+      "version": "8.1"
+    }
+  ],
+  "firefox": [
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008"
+      ],
+      "version": "3.0"
+    },
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008"
+      ],
+      "version": "3.5"
+    },
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "3.6"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "4"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "5"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "6"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "7"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "8"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "9"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "10"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "11"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "12"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "13"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "14"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "15"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "16"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "17"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "18"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "19"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "20"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "21"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "22"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "23"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "24"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "25"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "26"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "27"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "28"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "29"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "30"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "31"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "32"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "33"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "34"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "beta"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "dev"
     }
   ],
   "iphone": [
@@ -629,9 +526,24 @@
     },
     {
       "platforms": [
+        "Mac 10.10",
         "Mac 10.9"
       ],
       "version": "7.1"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9"
+      ],
+      "version": "8.0"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9"
+      ],
+      "version": "8.1"
     }
   ],
   "safari": [
@@ -653,6 +565,212 @@
         "Mac 10.9"
       ],
       "version": "7"
+    },
+    {
+      "platforms": [
+        "Mac 10.10"
+      ],
+      "version": "8"
+    }
+  ],
+  "chrome": [
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "26"
+    },
+    {
+      "platforms": [
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "27"
+    },
+    {
+      "platforms": [
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "28"
+    },
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "29"
+    },
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "30"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "31"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "32"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "33"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "34"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "35"
+    },
+    {
+      "platforms": [
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "36"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "37"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "38"
+    },
+    {
+      "platforms": [
+        "Mac 10.10",
+        "Mac 10.9",
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "39"
+    },
+    {
+      "platforms": [
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "beta"
+    },
+    {
+      "platforms": [
+        "Mac 10.8",
+        "Mac 10.6",
+        "Windows 2003",
+        "Windows 2012",
+        "Windows 2012 R2",
+        "Windows 2008",
+        "Linux"
+      ],
+      "version": "dev"
     }
   ],
   "opera": [
@@ -670,6 +788,47 @@
         "Linux"
       ],
       "version": "12"
+    }
+  ],
+  "internet explorer": [
+    {
+      "platforms": [
+        "Windows 2003"
+      ],
+      "version": "6"
+    },
+    {
+      "platforms": [
+        "Windows 2003"
+      ],
+      "version": "7"
+    },
+    {
+      "platforms": [
+        "Windows 2003",
+        "Windows 2008"
+      ],
+      "version": "8"
+    },
+    {
+      "platforms": [
+        "Windows 2008"
+      ],
+      "version": "9"
+    },
+    {
+      "platforms": [
+        "Windows 2012",
+        "Windows 2008"
+      ],
+      "version": "10"
+    },
+    {
+      "platforms": [
+        "Windows 2012 R2",
+        "Windows 2008"
+      ],
+      "version": "11"
     }
   ],
   "android": [
@@ -702,6 +861,12 @@
         "Linux"
       ],
       "version": "4.4"
+    },
+    {
+      "platforms": [
+        "Linux"
+      ],
+      "version": "5.0"
     }
   ],
   "lynx": [

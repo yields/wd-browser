@@ -101,7 +101,7 @@ function select(name, version){
 
 function stable(arr){
   var i = arr.length, el;
-  var expr = /beta|alpha|rc/;
+  var expr = /beta|alpha|rc|dev/;
   while (el = arr[--i]) {
     if (expr.test(el.version)) continue;
     return el.version;
